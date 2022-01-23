@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MiniPaint.iml" filepath="$PROJECT_DIR$/.idea/modules/MiniPaint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MiniPaint.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MiniPaint.app.iml" />
     </modules>
   </component>
 </project>
